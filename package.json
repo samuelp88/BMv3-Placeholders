@@ -1,0 +1,19 @@
+{
+  "name": "bmv3-placeholders",
+  "version": "0.0.1",
+  "description": "Placeholders module for JS",
+  "main": "bmplaceholders.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/samuelp88/BMv3-Placeholders.git"
+  },
+  "author": "samuelp88",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/samuelp88/BMv3-Placeholders/issues"
+  },
+  "homepage": "https://github.com/samuelp88/BMv3-Placeholders#readme"
+}
